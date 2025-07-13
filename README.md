@@ -42,16 +42,6 @@ This is a Java-based Car Rental System developed using **Java Swing** for the us
 
 5. Run the project from your IDE
 
-📚 Project Structure:
-
-├── src/
-│   ├── rent/
-│   │   ├── Main.java
-│   │   ├── Login.java
-│   │   ├── CarRegistration.java
-│   │   ├── Customer.java
-│   │   ├── Rent.java
-│   │   └── Return.java
    
 🙋‍♂️ Author
 Vikash Kumar
