@@ -1,27 +1,32 @@
-# 🚗 Car Rental System (Java)
+# 🚗 Car Rental System
 
-This is a simple Java-based Car Rental System designed to manage car details, bookings, and customer payments. It simulates a real-world car rental service and is built using core Java and object-oriented programming concepts.
+This is a Java-based Car Rental System developed using **Java Swing** for the user interface and **MySQL** for backend data storage. The system provides a functional way to manage car bookings, customer details, and rental history.
 
-## ✨ Features
+---
 
-- Add, update, and delete car details.
-- Rent cars based on availability and dates.
-- Calculate total rental cost.
-- Basic login for admin and users.
-- View rental history.
-- Store data using file handling or database.
+## 🔑 Features
+
+- 🛻 Add, edit, delete car details
+- 👤 Manage customer records
+- 📅 Book and return cars
+- 💾 Persistent data using MySQL database
+- 🔐 Admin login for secure access
+
+---
 
 ## 🛠️ Technologies Used
 
-- Java (OOP, Core Java)
-- File Handling / Database (optional)
+- Java (Swing GUI)
+- MySQL (JDBC)
+- NetBeans IDE (recommended)
+- JDBC Driver for MySQL
 
-## 📌 How to Run
+---
 
-1. Clone the repository.
-2. Open the project in a Java IDE.
-3. Compile and run `Main.java`.
+## 🚀 How to Run
 
-## 📚 Conclusion
-
-This project helps understand the basics of OOP and Java application development. It can be further improved with more features like online payments and GPS tracking.
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/vikash0706/Car-Rental-System-.git
+   cd Car-Rental-System-
+  
